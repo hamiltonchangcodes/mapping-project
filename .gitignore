@@ -1,3 +1,6 @@
 
 pluto_20v2.csv
 small_pluto.csv
+pluto_small.csv
+nycpluto_manhattan.geojson
+*.geojson
