@@ -4,3 +4,4 @@ small_pluto.csv
 pluto_small.csv
 nycpluto_manhattan.geojson
 *.geojson
+*.csv
